@@ -5,7 +5,8 @@ Users use the system and need to authenticate with the backend to make changes o
 
 Places are venues, parks, museums, restaurants, hotels, etc that users feel are worth visiting.
 
-[![Java CI with Maven](https://github.com/Bald-traveler/attractionsAppUsersMS/actions/workflows/maven.yml/badge.svg)](https://github.com/Bald-traveler/attractionsAppUsersMS/actions/workflows/maven.yml)
+[![Java CI with Maven](https://github.com/Bald-traveler/attractionsAppAccountMgmtMS/actions/workflows/maven.yml/badge.svg)](https://github.com/Bald-traveler/attractionsAppAccountMgmtMS/actions/workflows/maven.yml)
+
 ## Account Management Service
 This is the Account Management microservice.
 
